@@ -1,4 +1,4 @@
-### Olá! Eu sou o Diego Santana ✌️ 
+### Olá! Eu sou Diego Santana ✌️ 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-santana-047636206/)
 
