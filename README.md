@@ -14,11 +14,11 @@
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-    <img align="center" alt="Angular" src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white" />
+    <img align="center" alt="Angular" src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logoColor=white" />
     
 </div></br></br>
 
-Curioso por natureza, apaixonado em aprender e também ensinar, atualmente estudando Angular nas versões 17+.</br>
+Curioso por natureza, apaixonado em aprender e também ensinar, atualmente estudando desenvolvimento mobile com Swift (UIKit + Viewcode) e Arquitetura.</br>
 
 ### Gostaria de entrar em contato comigo?
 
